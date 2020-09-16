@@ -3,16 +3,27 @@
 The following are all the changes coming in TensorFlow 2.0. Let's have a closer look at them:
 
 :wavy_dash:  Eager Execution / tf.function
+
 :wavy_dash:  Integration of the Keras API
+
 :wavy_dash:  Facilitated distributed training
+
 :wavy_dash:  TF Data
+
 :wavy_dash:  TF SavedModel
+
 :wavy_dash:  TensorFlow Hub
+
 :wavy_dash:  TensorFlow Serving
+
 :wavy_dash:  TensorFlow Lite
+
 :wavy_dash:  TensorFlow.js
+
 :wavy_dash:  Tidying up the API
+
 :wavy_dash:  The conversion tool
+
 :wavy_dash: Alternative variable scoping
   
 
